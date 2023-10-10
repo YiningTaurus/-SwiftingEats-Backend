@@ -11,3 +11,6 @@ Attention to all Web Admins: **Security is one of our top priorities**. It's cru
 
 Ensure to adhere strictly to the security policies and protocols established, as they are designed to protect the integrity and confidentiality of all user data processed through the Swifting Eats platform.
 
+## Environment
+### Java version: 11.0.17  
+### Apache Maven: 3.8.6
